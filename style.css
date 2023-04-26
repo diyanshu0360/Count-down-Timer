@@ -22,6 +22,7 @@
 .mainbox{
     margin: 50px;
     padding: 20px;
+    height: 45vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -73,4 +74,12 @@
 .credit{
     font-size: large;
     color: white;
+}
+
+.timeout{
+    font-size: 3em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
