@@ -25,7 +25,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    height: 45vh;
+    /* height: 45vh; */
 }
 
 .timebox{
